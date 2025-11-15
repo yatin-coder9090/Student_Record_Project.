@@ -1,1 +1,1 @@
-# Student_Record_Project.
+# STUDENT RECORD MANAGEMENT SYSTEM 
